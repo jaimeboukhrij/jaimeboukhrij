@@ -107,17 +107,6 @@ Construida como un monorepo Turborepo con Next.js, NestJS, Prisma y PostgreSQL.
 
 <br/>
 
-<!-- TROPHIES -->
-## <img src="https://media.giphy.com/media/ZAXTdhbzKDLDsKqLZM/giphy.gif" width="28"> Trofeos
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=jaimeboukhrij&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
-
 <!-- SNAKE ANIMATION -->
 ## <img src="https://media.giphy.com/media/W5Eh8XvXUvu6c1mB9R/giphy.gif" width="28"> Contribuciones
 
