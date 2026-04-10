@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Jaime%20GG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20of%20GrowFyt&descAlignY=60&descAlign=50" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Angular+%26+NestJS+Developer+%40+Globant;Building+GrowFyt+%F0%9F%92%AA;TypeScript+enjoyer;Always+shipping+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=React+%26+NestJS+Developer+%40+Aurgi;Building+GrowFyt+%F0%9F%92%AA;TypeScript+enjoyer;Always+shipping+code" alt="Typing SVG" />
   </a>
 
 </div>
@@ -17,7 +17,7 @@
 ```typescript
 const jaime = {
   location: "Madrid, España 🇪🇸",
-  role: "Full-Stack Developer @ Globant",
+  role: "Full-Stack Developer @ Aurgi",
   sideProject: "GrowFyt – SaaS de coaching fitness",
   stack: {
     frontend: ["Angular", "Next.js", "React", "TypeScript"],
