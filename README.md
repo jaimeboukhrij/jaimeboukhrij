@@ -112,7 +112,7 @@ Construida como un monorepo Turborepo con Next.js, NestJS, Prisma y PostgreSQL.
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=jaimeboukhrij&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=jaimeboukhrij&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
